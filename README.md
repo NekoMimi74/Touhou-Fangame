@@ -1,2 +1,7 @@
-# Touhou-Fangame
-This was a game that I created for Game Development 4650.
+Make sure to place all the root Unity project folders directly here:
+* Assets
+* Library
+* Packages
+* ProjectSettings
+
+
